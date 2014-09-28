@@ -1,7 +1,7 @@
 /*
  * Code base on Michael's blog (http://blog.csdn.net/poechant)
  *
- * An example Nginx module which return 'hello world'.
+ * An example Nginx module which return 'hello world'. Test on Nginx 1.2
  *
  * To compile in nginx:
  *
